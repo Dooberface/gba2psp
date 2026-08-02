@@ -7443,7 +7443,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com/c10d1bcb-3446-448b-8cf5-4b1df49eb394.png',
         'pic0': 'https://images.launchbox-app.com/06551353-2456-4601-a9ad-23e927abe628.png',
         'pic1': 'https://images.launchbox-app.com/1d82df1e-481a-4163-ba5f-41356d4895b5.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=C9rEeGWK0pQ&list=PLEiOTsktKIotvaMzRhqvCsT7PHbm67nsq&index=1',
+        'snd0': 'https://www.youtube.com/watch?v=C9rEeGWK0pQ',
     },
     "POKEMON RUBYAXVF": {
         'uttd': "AXVF",
