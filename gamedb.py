@@ -3573,6 +3573,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com//1600a9d8-0b1b-403a-ab62-ab1d7813d4d6.jpg',
         'pic0': 'https://images.launchbox-app.com//d90bce59-515b-4a55-8632-892a2dd34c03.png',
         'pic1': 'https://images.launchbox-app.com//b74af433-e658-4749-af21-34f82eae5e4a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=lzwYZ9FiOG4',
     },
     "GBAZELDA    AZLJ": {
         'uttd': "AZLJ",
@@ -3594,7 +3595,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com/0fe2ca8b-4307-4913-a1b2-46720c1a82d1.jpg',
         'pic0': 'https://images.launchbox-app.com/f5d37c8b-60cc-45c1-b459-27055dbe98e7.png',
         'pic1': 'https://images.launchbox-app.com/4827e856-0ee9-46df-81fe-d83f72225588.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=B7T9t5Swu0c&list=PL66C3A99730C3F3F2&index=1',
+        'snd0': 'https://www.youtube.com/watch?v=qmKMIxhVXXA',
     },
     "GBAZELDA MC BZMJ": {
         'uttd': "BZMJ",
@@ -9562,7 +9563,7 @@ games = {
         'title': "Super Mario Advance 2 - Super Mario World",
         'icon0': 'https://gamesdb-images.launchbox.gg/r2_0d1560aa-520a-4e8f-b591-3733a15768ec.jpg',
         'pic0': 'https://images.launchbox-app.com//6afa4480-e300-4bdc-8fae-4382bc5d0a98.png',
-        'pic1': 'https://gamesdb.launchbox-app.com/games/details/2226-super-mario-advance-2-super-mario-world',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_e4d44cab-9ef0-4dbe-b7e9-638cd1c86905.jpg',
         'snd0': 'https://www.youtube.com/watch?v=x8kSkzqBzrI&list=PLhPt7n-ALrSAjphGS55NnXCzmN6VjX1IW',
     },
     "SUPER MARIOBAA2J": {
