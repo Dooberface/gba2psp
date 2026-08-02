@@ -8911,7 +8911,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com//f37ded5f-6a1a-4ec1-a401-2fb1c897b2e8.jpg',
         'pic0': 'https://images.launchbox-app.com//927fea2e-6af0-421e-93da-c82d2d34e4ea.png',
         'pic1': 'https://gamesdb-images.launchbox.gg/r2_7b04c3ef-a2a2-4e14-a229-48eb10f02682.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=-aosh6qt6H8&list=PLqzVNX9DhzKFiUQ0l-jiSL_2luMheT7qK&index=4',
+        'snd0': 'https://www.youtube.com/watch?v=-aosh6qt6H8&list=PLqzVNX9DhzKFiUQ0l-jiSL_2luMheT7qK&index=3',
     },
     "SONICADVANC2A2NJ": {
         'uttd': "A2NJ",
