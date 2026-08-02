@@ -6293,6 +6293,10 @@ games = {
     "MOTHER3     A3UJ": {
         'uttd': "A3UJ",
         'title': "Mother 3",
+        'icon0': 'https://images.launchbox-app.com//12ff9558-8030-41d1-b093-4faaf744f8d1.jpg',
+        'pic0': 'https://images.launchbox-app.com//8ca50f4a-ce33-4033-ba91-2f45cdd57cc0.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_7e365211-befe-466b-bc4b-10d611ee85f2.png',
+        'snd0': 'https://www.youtube.com/watch?v=RotNK_emibc',
     },
     "MOTOGP      AM4E": {
         'uttd': "AM4E",
