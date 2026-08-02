@@ -213,7 +213,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com//be74f444-a8c9-4235-8a6c-3dcec35b7201.jpg',
         'pic0': 'https://images.launchbox-app.com//e771c5b5-0857-41ec-bcf0-37562c5960f3.png',
         'pic1': 'https://gamesdb-images.launchbox.gg/r2_44cba434-412d-4e26-aa10-936696930bed.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=ygPCHnykUjY&list=PLIgM4y_ZygHRMgUgiUzMWOeb1ePJd_Xfd&index=4',
+        'snd0': 'https://www.youtube.com/watch?v=ygPCHnykUjY',
     },
     "AGB KIRBY AMB8KJ": {
         'uttd': "B8KJ",
