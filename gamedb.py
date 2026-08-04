@@ -7397,10 +7397,10 @@ games = {
     "POKEMON FIREBPRE": {
         'uttd': "BPRE",
         'title': "Pokemon - Fire Red Version",
-        'icon0': 'https://images.launchbox-app.com//2198e0db-77df-4104-a30d-627e5683dd3e.jpg',
-        'pic0': 'https://images.launchbox-app.com//6cd46a01-b6db-4e0f-bc04-81981af6a631.png',
-        'pic1': 'https://images.launchbox-app.com//3ec8f9b3-6d04-4c38-97c0-5f0ecbbde7a8.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=dfRLeXXsdnM',
+        'icon0': 'https://img.lightshot.app/M5pwhRNSRdKA4WFDjzTzag.png',
+        'pic0': 'https://images.launchbox-app.com//93f19d89-ed79-4790-af43-553c8411b6a5.png',
+        'pic1': 'https://images.launchbox-app.com//2212b31d-f90f-499c-87f8-6eda52a9864e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=rti72sxq6Sk',
     },
     "POKEMON FIREBPRF": {
         'uttd': "BPRF",
